@@ -7,6 +7,6 @@ terraform {
 }
 
 locals {
-  base_name = "workshop-pj"
+  base_name = "ws-pj"
   location = "westeurope"
 }
